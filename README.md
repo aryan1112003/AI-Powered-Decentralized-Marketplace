@@ -98,4 +98,7 @@ Created with ❤️ by Aryan Acharya
 
 ---
 
+![image](https://github.com/user-attachments/assets/82b1cc8d-83fa-45d7-b893-35456ad4b218)
+
+
 © 2024 DecentraMarket. All rights reserved.
