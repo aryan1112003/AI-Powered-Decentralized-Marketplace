@@ -28,7 +28,7 @@ An AI-powered decentralized marketplace for digital assets (NFTs, Data, Services
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/decentra-market.git
+   git clone https://github.com/aryan1112003/AI-Powered-Decentralized-Marketplace
    ```
 
 2. Install dependencies:
